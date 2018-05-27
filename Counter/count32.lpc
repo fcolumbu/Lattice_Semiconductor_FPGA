@@ -1,0 +1,39 @@
+[Device]
+Family=machxo3lf
+PartType=LCMXO3LF-9400C
+PartName=LCMXO3LF-9400C-6BG484C
+SpeedGrade=6
+Package=CABGA484
+OperatingCondition=COM
+Status=S
+
+[IP]
+VendorName=Lattice Semiconductor Corporation
+CoreType=LPM
+CoreStatus=Demo
+CoreName=Counter
+CoreRevision=4.6
+ModuleName=count32
+SourceFormat=Verilog HDL
+ParameterFileVersion=1.0
+Date=05/25/2018
+Time=18:32:25
+
+[Parameters]
+Verilog=1
+VHDL=0
+EDIF=1
+Destination=Synplicity
+Expression=BusA(0 to 7)
+Order=Big Endian [MSB:LSB]
+IO=0
+InputWidth=32
+CountType=Synchronous
+CountDirection=Up
+OptimizeSpeed=0
+Lower=0
+Upper=4294967295
+Load=0
+
+[Command]
+cmd_line= -w -n count32 -lang verilog -synth lse -bus_exp 7 -bb -arch xo3c00f -type mgcounter -width 32 -cnt_direction up -aclear -clken -cnt_low 0 -cnt_up 4294967295

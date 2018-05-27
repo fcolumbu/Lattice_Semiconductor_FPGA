@@ -1,0 +1,26 @@
+----------------------------------------------------------------------
+Report for cell counter.TECH
+Register bits:  38 of 10552 (0.360%)
+I/O cells:      12
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                                CU2        15          100.0
+                             FADD2B         1          100.0
+                            FD1P3DX        30          100.0
+                            FD1S3AX         8          100.0
+                                GSR         1          100.0
+                                 IB         4          100.0
+                               LUT4         9          100.0
+                                 OB         8          100.0
+SUB MODULES
+                            count32         1
+                              TOTAL        77
+----------------------------------------------------------------------
+Report for cell count32.v1
+Instance Path : count32_inst
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                                CU2        15          100.0
+                             FADD2B         1          100.0
+                            FD1P3DX        30          100.0
+                              TOTAL        46

@@ -1,0 +1,32 @@
+SCUBA, Version Diamond (64-bit) 3.10.2.115
+Fri May 25 18:32:25 2018
+  
+Copyright (c) 1991-1994 by NeoCAD Inc. All rights reserved.
+Copyright (c) 1995 AT&T Corp.   All rights reserved.
+Copyright (c) 1995-2001 Lucent Technologies Inc.  All rights reserved.
+Copyright (c) 2001 Agere Systems   All rights reserved.
+Copyright (c) 2002-2017 Lattice Semiconductor Corporation,  All rights reserved.
+  
+BEGIN SCUBA Module Synthesis
+  
+    Issued command   : C:\lscc\diamond\3.10_x64\ispfpga\bin\nt64\scuba.exe -w -n count32 -lang verilog -synth lse -bus_exp 7 -bb -arch xo3c00f -type mgcounter -width 32 -cnt_direction up -aclear -clken -cnt_low 0 -cnt_up 4294967295 
+    Circuit name     : count32
+    Module type      : counter
+    Module Version   : 4.6
+    Ports            : 
+    Inputs       : Clock, Clk_En, Aclr
+    Outputs      : Q[31:0]
+    I/O buffer       : not inserted
+    EDIF output      : count32.edn
+    Verilog output   : count32.v
+    Verilog template : count32_tmpl.v
+    Verilog testbench: tb_count32_tmpl.v
+    Verilog purpose  : for synthesis and simulation
+    Bus notation     : big endian
+    Report output    : count32.srp
+    Estimated Resource Usage:
+            LUT : 34
+            Reg : 32
+  
+END   SCUBA Module Synthesis
+

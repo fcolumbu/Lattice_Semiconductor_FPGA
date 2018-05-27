@@ -1,0 +1,20 @@
+NOTE Copyright (C), 1992-2010, Lattice Semiconductor Corporation *
+NOTE All Rights Reserved *
+NOTE DATE CREATED: Sat May 26 22:58:59 2018 *
+NOTE DESIGN NAME: counter *
+NOTE DEVICE NAME: LCMXO3LF-9400C-6CABGA484 *
+NOTE PIN ASSIGNMENTS *
+NOTE PINS LED[0] : F1 : out *
+NOTE PINS LED[6] : G4 : out *
+NOTE PINS LED[7] : F4 : out *
+NOTE PINS LED[3] : E2 : out *
+NOTE PINS LED[4] : D1 : out *
+NOTE PINS LED[1] : E3 : out *
+NOTE PINS LED[2] : E1 : out *
+NOTE PINS LED[5] : G3 : out *
+NOTE PINS clk_12 : B10 : in *
+NOTE PINS clk_sma : D22 : in *
+NOTE PINS SW2 : D3 : in *
+NOTE PINS DIP_SW1_4 : J3 : in *
+NOTE CONFIGURATION MODE: NONE *
+NOTE COMPRESSION: on *

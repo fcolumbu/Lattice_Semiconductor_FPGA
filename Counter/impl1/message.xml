@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliMessageLog>
+    <Task name="PowerCal">
+        <Message>
+            <ID>1171236</ID>
+            <Severity>Error</Severity>
+        </Message>
+    </Task>
+    <Task name="Map">
+        <Message>
+            <ID>1100644</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>C:/Users/fcolumbu/Documents/Lattice Semiconductor/Counter/counter.lpf(3): Semantic error in &quot;IOBUF PORT &quot;clk&quot; IO_TYPE=LVCMOS33 PULLMODE=NONE ;&quot;: </Dynamic>
+            <Dynamic>clk</Dynamic>
+            <Navigation>C:/Users/fcolumbu/Documents/Lattice Semiconductor/Counter/counter.lpf</Navigation>
+            <Navigation>3</Navigation>
+        </Message>
+    </Task>
+    <Task name="Lattice_Synthesis">
+        <Message>
+            <ID>35002000</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>35001781</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>35901018</ID>
+            <Severity>Info</Severity>
+            <Dynamic>c:/users/fcolumbu/documents/lattice semiconductor/counter/impl1/source/counter.v(20): </Dynamic>
+            <Dynamic>counter</Dynamic>
+            <Navigation>c:/users/fcolumbu/documents/lattice semiconductor/counter/impl1/source/counter.v</Navigation>
+            <Navigation>20</Navigation>
+        </Message>
+        <Message>
+            <ID>35901018</ID>
+            <Severity>Info</Severity>
+            <Dynamic>c:/users/fcolumbu/documents/lattice semiconductor/counter/count32.v(8): </Dynamic>
+            <Dynamic>count32</Dynamic>
+            <Navigation>c:/users/fcolumbu/documents/lattice semiconductor/counter/count32.v</Navigation>
+            <Navigation>8</Navigation>
+        </Message>
+        <Message>
+            <ID>35901018</ID>
+            <Severity>Info</Severity>
+            <Dynamic>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v(187): </Dynamic>
+            <Dynamic>FD1P3DX</Dynamic>
+            <Navigation>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v</Navigation>
+            <Navigation>187</Navigation>
+        </Message>
+        <Message>
+            <ID>35901018</ID>
+            <Severity>Info</Severity>
+            <Dynamic>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v(1124): </Dynamic>
+            <Dynamic>VLO</Dynamic>
+            <Navigation>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v</Navigation>
+            <Navigation>1124</Navigation>
+        </Message>
+        <Message>
+            <ID>35901018</ID>
+            <Severity>Info</Severity>
+            <Dynamic>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v(1120): </Dynamic>
+            <Dynamic>VHI</Dynamic>
+            <Navigation>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v</Navigation>
+            <Navigation>1120</Navigation>
+        </Message>
+        <Message>
+            <ID>35901018</ID>
+            <Severity>Info</Severity>
+            <Dynamic>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v(138): </Dynamic>
+            <Dynamic>FADD2B</Dynamic>
+            <Navigation>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v</Navigation>
+            <Navigation>138</Navigation>
+        </Message>
+        <Message>
+            <ID>35901018</ID>
+            <Severity>Info</Severity>
+            <Dynamic>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v(129): </Dynamic>
+            <Dynamic>CU2</Dynamic>
+            <Navigation>C:/lscc/diamond/3.10_x64/ispfpga/userware/NT/SYNTHESIS_HEADERS/machxo3l.v</Navigation>
+            <Navigation>129</Navigation>
+        </Message>
+        <Message>
+            <ID>35901221</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>c:/users/fcolumbu/documents/lattice semiconductor/counter/impl1/source/counter.v(42): </Dynamic>
+            <Dynamic>DIP_SW1_4</Dynamic>
+            <Navigation>c:/users/fcolumbu/documents/lattice semiconductor/counter/impl1/source/counter.v</Navigation>
+            <Navigation>42</Navigation>
+        </Message>
+        <Message>
+            <ID>35001611</ID>
+            <Severity>Warning</Severity>
+        </Message>
+    </Task>
+</BaliMessageLog>

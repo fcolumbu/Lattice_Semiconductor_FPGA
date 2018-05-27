@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DiamondModule name="count32" module="Counter" VendorName="Lattice Semiconductor Corporation" generator="IPexpress" date="2018 05 25 18:32:29.955" version="4.6" type="Module" synthesis="lse" source_format="Verilog">
+  <Package>
+		<File name="count32.lpc" type="lpc" modified="2018 05 25 18:32:25.041"/>
+		<File name="count32.v" type="top_level_verilog" modified="2018 05 25 18:32:25.166"/>
+		<File name="count32_tmpl.v" type="template_verilog" modified="2018 05 25 18:32:25.166"/>
+		<File name="tb_count32_tmpl.v" type="testbench_verilog" modified="2018 05 25 18:32:25.228"/>
+  </Package>
+</DiamondModule>
